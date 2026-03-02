@@ -16,7 +16,7 @@ Backend: API REST desenvolvida em Java com Spring Boot
 ## Tecnologias Utilizadas
 ### Backend
 
-- Java 17+
+- Java 25
 
 - Spring Boot
 
@@ -34,17 +34,11 @@ Backend: API REST desenvolvida em Java com Spring Boot
 
 - TypeScript
 
-- HTML5
-
-- CSS3
-
-- Node.js
-
-- npm
+- Tailwind
 
 ### Banco de Dados
 
-MySQL 
+- MySQL 
 
 ## Arquitetura
 
